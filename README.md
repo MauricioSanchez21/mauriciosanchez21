@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Bienvenido a mi portafolio web.
 
 Mauricio Sanchez Alvarez  
